@@ -1,13 +1,13 @@
 # Launch EarthScape
 
 If you've already installed locally, 
-you'll already have "chatbotui" in your Docker container.
+you'll have "chatbotui" in your Docker container.
 Simply run in your Earthscape folder to launch. (Step 11)
 
 	npm run chat
 
 [Earthscape](https://model.earth/earthscape/) is a fork of [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) by [Nick Wrigley](https://twitter.com/mckaywrigley).  
-Install documented by our [model.earth Team](/projects)
+Install documented by our [Model.earth Team](/projects)
 
 ---
 
