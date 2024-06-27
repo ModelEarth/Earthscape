@@ -7,6 +7,7 @@ Simply run in your Earthscape folder to launch. (Step 11)
 	npm run chat
 
 You may need to run `npm ci` first to install recent syncs.
+You'll probably create a new account each time. Can we reload an existing Supabase?
 
 [Earthscape](https://model.earth/earthscape/) is a fork of [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) by [Nick Wrigley](https://twitter.com/mckaywrigley).  
 Install documented by our [Model.earth Team](/projects)
