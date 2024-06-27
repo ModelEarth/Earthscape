@@ -6,6 +6,8 @@ Simply run in your Earthscape folder to launch. (Step 11)
 
 	npm run chat
 
+You may need to run `npm ci` first to install recent syncs.
+
 [Earthscape](https://model.earth/earthscape/) is a fork of [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) by [Nick Wrigley](https://twitter.com/mckaywrigley).  
 Install documented by our [Model.earth Team](/projects)
 
@@ -35,9 +37,9 @@ Or you can reuse the existing .gitignore: .env\*.local by adding X:
 	python3 -m venv .envX.local &&
 	source .envX.local/bin/activate
 
-4.) In the local repo:
+4.) In the local repo run `npm ci` as an alternative to `npm install` to avoid updating the package-lock.json file.
 
-	npm install
+	npm ci
 
 5.) Start Docker on your computer. You should see a whale icon at the top.  
 Click the whale icon. A green dot confirms Docker is running.
